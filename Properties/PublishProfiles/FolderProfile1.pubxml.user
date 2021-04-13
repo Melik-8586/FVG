@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Api_fvg_core_local</_PublishTargetUrl>
+    <History>True|2021-04-04T15:29:45.0073569Z;True|2021-04-04T18:17:28.3710124+04:00;False|2021-04-04T18:16:01.0393874+04:00;True|2021-04-04T18:06:19.8859120+04:00;False|2021-04-04T18:06:08.4011695+04:00;True|2021-04-04T17:55:59.6244686+04:00;False|2021-04-04T17:55:13.4938493+04:00;True|2021-04-04T17:50:04.6280965+04:00;False|2021-04-04T17:13:07.9927790+04:00;True|2021-04-04T17:04:28.5771781+04:00;True|2021-04-04T17:01:54.4307431+04:00;True|2021-04-04T16:51:47.6505453+04:00;True|2021-04-04T16:23:54.6779781+04:00;True|2021-04-04T15:53:12.1880490+04:00;True|2021-03-31T21:00:00.1374362+04:00;</History>
+  </PropertyGroup>
+</Project>
